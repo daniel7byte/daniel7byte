@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am José Daniel Posso García, a Colombian programmer 🇨🇴
+I am José Daniel Posso García, a Colombian programmer 🇨🇴👨🏼‍💻
 
 - 🔭 I’m currently working on [Rappi](https://www.rappi.com.co/) 🛵 as a Backend Developer
 - 🌱 I’m currently learning Svelte, Kotlin with Spring Boot
