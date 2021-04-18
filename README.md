@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=daniel7byte&color=yellow)</div>
 
 I am José Daniel Posso García, a Colombian programmer 🇨🇴👨🏼‍💻
 
